@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951125200385",
+    "project_id": "examen2-e8aec",
+    "storage_bucket": "examen2-e8aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951125200385:android:fd10d8e7641392cf55ba00",
+        "android_client_info": {
+          "package_name": "com.wendyitca.eval2_sis21b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWMQeNrhLqnk1nyf-H384JtcU0uCoZTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
